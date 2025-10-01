@@ -1,3 +1,4 @@
+'use client';
 export function ChatbotButton() {
   return (
     <div className="fixed bottom-6 right-6">
