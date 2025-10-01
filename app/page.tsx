@@ -1,9 +1,9 @@
-import ChatbotButton from './components/ChatbotButton';
+import ChatbotButton from "./ChatbotButton";
 
 export default function Home() {
   return (
     <main>
-      <h1>Bem-vindo ao site do Athena!</h1>
+      <h1>Bem-vindo a Athena!</h1>
       <ChatbotButton />
     </main>
   );
