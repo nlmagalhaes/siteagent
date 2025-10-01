@@ -1,9 +1,10 @@
-import { ChatbotButton } from './components/ChatbotButton';
+import ChatbotButton from './components/ChatbotButton';
 
 export default function Home() {
   return (
-    <div className="space-y-16">
+    <main>
+      <h1>Bem-vindo ao site do Athena!</h1>
       <ChatbotButton />
-    </div>
+    </main>
   );
 }
